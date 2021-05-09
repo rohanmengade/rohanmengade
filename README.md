@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rohanmengade
+- 👋 Hi, I’m Rohan
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning data analytics and machine learning
-- 💞️ 
 - 📫 How to reach me rohanmengade10@gmail.com
 
 <!---
