@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohan
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in Data
 - 🌱 I'm experienced in Data Analytics, Marketing Data Analytics, Business Analysis and Machine Learning. 
 - 📫 How to reach me rohanmengade10@gmail.com
 
