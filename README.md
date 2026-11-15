@@ -1,9 +1,2 @@
-- 👋 Hi, I’m Rohan, Analytics Engineer solving B2B and B2C Ecommerce business problems.
-- 👀 I’m interested in solving business problems with Data Analytics
-- 🌱 I'm experienced in Data Analytics, Marketing Data Analytics, Business Analysis and Machine Learning. 
-- 📫 How to reach me rohanmengade10@gmail.com
-
-<!---
-rohanmengade/rohanmengade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Featured work
+- **[Product Analytics & AI Portfolio](https://github.com/rohanmengade/data-analytics-portfolio)**: four case studies in growth analytics, BI engineering, analytics engineering and applied AI (+10% conversion, +15% AOV, 10 hrs/week saved).
